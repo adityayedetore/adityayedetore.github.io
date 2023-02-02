@@ -15,9 +15,4 @@ social: false  # includes social icons at the bottom of the page
 ---
 I am currently a graduate student in  the Linguistics Department at Boston University, working under [Professor Najoung Kim](https://najoungkim.github.io). I am interested how meanings are represented in the mind, and the consequences of that representational format for downstream processing.
 
-Previously I was an undergraduate student in the Cognitive Science Department at Johns Hopkins University. I did research on what deep learning models can tell us about language acquisition.
-
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously I was an undergraduate student in the Cognitive Science Department at Johns Hopkins University. I did research working with [Tal Linzen](https://tallinzen.net), [Bob Franke](https://bobfrank1.github.io), and [Tom McCoy](https://rtmccoy.com) relating the language acquisition capactities of deep learning models to those of humans. I also did reasearch with [Justin Halberda](https://pbs.jhu.edu/directory/justin-halberda/) and [Nico Arlotti](https://pbs.jhu.edu/directory/justin-halberda/) on the inferface between our visual system and the meanings of "All" and "Each". 
