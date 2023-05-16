@@ -10,9 +10,9 @@ profile:
   address: 
 
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am currently a graduate student in  the Linguistics Department at Boston University, working under [Professor Najoung Kim](https://najoungkim.github.io). I am interested how meanings are represented in the mind, and the consequences of that representational format for downstream processing.
+I am a graduate student in  the Linguistics Department at Boston University, working with [Professor Najoung Kim](https://najoungkim.github.io). I am interested semantics, syntax, and langauge acquistion.
 
-Previously I was an undergraduate student in the Cognitive Science Department at Johns Hopkins University. I did research working with [Tal Linzen](https://tallinzen.net), [Bob Frank](https://bobfrank1.github.io), and [Tom McCoy](https://rtmccoy.com) relating the language acquisition capactities of deep learning models to those of humans. I also did reasearch with [Justin Halberda](https://pbs.jhu.edu/directory/justin-halberda/) and [Nico Arlotti](https://pbs.jhu.edu/directory/justin-halberda/) on the inferface between our visual system and the meanings of "All" and "Each". 
+Previously I was an undergraduate student in the Cognitive Science Department at Johns Hopkins University. I did research with [Tal Linzen](https://tallinzen.net), [Bob Frank](https://bobfrank1.github.io), and [Tom McCoy](https://rtmccoy.com) studying language acquisition through simulation with deep learning models. I also did reasearch with [Justin Halberda](https://pbs.jhu.edu/directory/justin-halberda/) and [Nico Arlotti](https://pbs.jhu.edu/directory/justin-halberda/) on the inferface between our visual system and the meanings of "All" and "Each". 
