@@ -7,4 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-[Anki decks](http://adityayedetore.com/lx250/)
+[Download Anki](https://apps.ankiweb.net). Note: Anki is a tool for memorization. It won't help you understand the concepts. 
+
+[Anki decks for phonetics](http://adityayedetore.com/lx250/) (modified from [here](https://ankiweb.net/shared/info/3166970026) and [here](https://ankiweb.net/shared/info/81778780))
+
