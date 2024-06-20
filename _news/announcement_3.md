@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-07-10 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Presented at [ACL 2023](https://2023.aclweb.org) on hierarchical generalization in neural networks.
