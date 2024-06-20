@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-4-16 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Spotlight talk and poster at [NENLP 2024](https://nenlp.github.io/) on Semantic Training Signals Promote Hierarchical Syntactic Generalization in Neural Networks
