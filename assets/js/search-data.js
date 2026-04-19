@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-spotlight-talk-amp-amp-poster-at-nenlp-2024-on-semantic-bootstrapping-in-neural-networks",
           title: 'Spotlight talk &amp;amp;amp; poster at NENLP 2024 on semantic bootstrapping in neural networks....',
+          description: "",
+          section: "News",},{id: "news-invited-talk-at-the-mit-cpl-on-cues-to-hierarchical-generalization-in-neural-networks",
+          title: 'Invited talk at the MIT CPL on cues to hierarchical generalization in neural...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
