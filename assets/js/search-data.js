@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-presented-at-acl-2023-on-hierarchical-generalization-in-neural-networks",
+          title: 'Presented at ACL 2023 on hierarchical generalization in neural networks.',
           description: "",
           section: "News",},{id: "news-spotlight-talk-amp-amp-poster-at-nenlp-2024-on-semantic-bootstrapping-in-neural-networks",
           title: 'Spotlight talk &amp;amp;amp; poster at NENLP 2024 on semantic bootstrapping in neural networks....',
