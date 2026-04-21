@@ -1,14 +1,128 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Aditya Yedetore
-    - name: Date of Birth
-      value: 10th December 1999
+cv:
+  name: Aditya Yedetore
+  label: PhD Student in Linguistics
+  email: yedetore@bu.edu
+  location: Boston, MA
+  image: ""
+  summary: >
+    PhD student in the Linguistics Department at Boston University working with Najoung Kim.
+    My research concerns representation and computation in neural networks, with particular
+    focus on compositionality, systematicity, productivity, and the formal conditions under
+    which behavioral generalization constrains internal computational architecture.
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelors of Arts
-      institution: Johns Hopkins University, Baltimore, Maryland
-      year: 2022
+  social_networks:
+    - network: Website
+      username: adityayedetore.com
+
+  sections:
+
+    Research Interests:
+      - name: Core Areas
+        keywords:
+          - Representation and computation in neural networks
+          - Compositionality, systematicity, and productivity
+          - Formal theories of generalization
+          - Language acquisition
+          - Symbolic structure in cognition
+
+      - name: Current Focus
+        keywords:
+          - Human and neural network generalization
+          - Classical computation in connectionist systems
+          - Formal constraints on representational inference
+
+    Education:
+      - institution: Boston University
+        location: Boston, Massachusetts
+        area: Linguistics
+        studyType: PhD
+        start_date: 2022
+        end_date: present
+        highlights:
+          - Advisor: Najoung Kim
+
+      - institution: Johns Hopkins University
+        location: Baltimore, Maryland
+        area: Cognitive Science and Computer Science
+        studyType: BS
+        start_date: 2018
+        end_date: 2022
+
+    Publications:
+      - title: How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech
+        authors:
+          - Aditya Yedetore
+          - Tal Linzen
+          - Robert Frank
+          - R. Thomas McCoy
+        publisher: ACL 2023
+        releaseDate: 2023
+
+      - title: Semantic Training Signals Promote Hierarchical Syntactic Generalization in Transformers
+        authors:
+          - Aditya Yedetore
+          - Najoung Kim
+        publisher: EMNLP 2024
+        releaseDate: 2024
+
+    Working Papers:
+      - title: Classical Computation and Connectionist Models
+        authors:
+          - Aditya Yedetore
+        publisher: Manuscript in preparation
+
+    Selected Presentations:
+      - company: Harvard Language and Cognition
+        position: Invited Talk
+        location: Cambridge, Massachusetts
+        start_date: 2026
+        highlights:
+          - Classical Computation and Connectionist Models
+
+      - company: Brown University ANCOR Talk Series
+        position: Invited Talk
+        location: Providence, Rhode Island
+        start_date: 2025
+        highlights:
+          - Classical Computation in Connectionist Models
+
+      - company: Harvard Language and Cognition
+        position: Invited Talk
+        location: Cambridge, Massachusetts
+        start_date: 2024
+        highlights:
+          - Semantic Training Signals Promote Hierarchical Syntactic Generalization in Neural Networks
+
+    Research Experience:
+      - company: Johns Hopkins University Computation and Psycholinguistics Lab
+        position: Undergraduate Researcher
+        location: Baltimore, Maryland
+        start_date: 2020
+        end_date: 2022
+        highlights:
+          - Collaborators: Tal Linzen, Bob Frank, Tom McCoy
+
+      - company: Johns Hopkins University Vision and Cognition Lab
+        position: Undergraduate Researcher
+        location: Baltimore, Maryland
+        start_date: 2019
+        end_date: 2021
+        highlights:
+          - Collaborators: Nico Arlotti, Justin Halberda
+
+    Teaching:
+      - company: Boston University
+        position: Teaching Assistant, Introduction to Linguistics (CAS LX 250)
+        start_date: 2024
+        end_date: 2024
+
+    Service:
+      - company: Boston University Conference on Language Development
+        position: Organizer
+        start_date: 2024
+        end_date: 2024
+
+    Awards:
+      - title: Johns Hopkins Summer PURA Award
+        awarder: Johns Hopkins University
+        date: 2020
