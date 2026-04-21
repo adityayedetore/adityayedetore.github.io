@@ -43,6 +43,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/040_the_claw_of_the_conciliator/";
+            },},{id: "books-hard-boiled-wonderland-and-the-end-of-the-world",
+          title: 'Hard-Boiled Wonderland and the End of the World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/050_hardboiled_wonderland/";
             },},{id: "books-causality",
           title: 'Causality',
           description: "",
@@ -78,11 +83,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/130_labyrinths/";
-            },},{id: "books-hard-boiled-wonderland-and-the-end-of-the-world",
-          title: 'Hard-Boiled Wonderland and the End of the World',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/hardboiled_wonderland/";
             },},{id: "books-words-and-rules",
           title: 'Words and Rules',
           description: "",
