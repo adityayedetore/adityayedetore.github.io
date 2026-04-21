@@ -28,11 +28,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/labyrinths/";
-            },},{id: "books-the-shadow-of-the-torturer",
-          title: 'The Shadow of the Torturer',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/shadow_of_the_torturer/";
             },},{id: "books-the-citadel-of-the-autarch",
           title: 'The Citadel of the Autarch',
           description: "",
@@ -43,6 +38,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_claw_of_the_conciliator/";
+            },},{id: "books-the-shadow-of-the-torturer",
+          title: 'The Shadow of the Torturer',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_shadow_of_the_torturer/";
             },},{id: "books-the-sword-of-the-lictor",
           title: 'The Sword of the Lictor',
           description: "",
