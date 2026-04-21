@@ -2,7 +2,7 @@
 layout: book-review
 title: Labyrinths
 author: Jorge Luis Borges
-cover: 
+cover: assets/img/book_covers/labyrinths.jpg
 olid: OL110959W # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0811216993 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: 
