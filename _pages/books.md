@@ -6,8 +6,8 @@ nav: true
 collection: books
 ---
 
-> We believe that we invent symbols. The truth is that they invent us.
+> _We believe that we invent symbols. The truth is that they invent us._
 >
-> -- Gene Wolfe, Book of the New Sun, Book 1: The Shadow of the Torturer (1980)
+> -- Gene Wolfe
 
 
