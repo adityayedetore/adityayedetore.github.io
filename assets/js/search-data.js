@@ -28,6 +28,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/010_computation_and_cognition/";
+            },},{id: "books-the-citadel-of-the-autarch",
+          title: 'The Citadel of the Autarch',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/020_the_citadel_of_the_autarch/";
             },},{id: "books-the-sword-of-the-lictor",
           title: 'The Sword of the Lictor',
           description: "",
@@ -78,11 +83,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hardboiled_wonderland/";
-            },},{id: "books-the-citadel-of-the-autarch",
-          title: 'The Citadel of the Autarch',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_citadel_of_the_autarch/";
             },},{id: "books-words-and-rules",
           title: 'Words and Rules',
           description: "",
