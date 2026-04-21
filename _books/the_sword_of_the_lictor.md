@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: book-review
 title: The Sword of the Lictor
 author: Gene Wolfe
 cover: assets/img/book_covers/sword_of_the_lictor.jpg
