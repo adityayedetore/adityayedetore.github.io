@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-the-shadow-of-the-torturer",
+        },{id: "books-computation-and-cognition",
+          title: 'Computation and Cognition',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/010_computation_and_cognition/";
+            },},{id: "books-the-shadow-of-the-torturer",
           title: 'The Shadow of the Torturer',
           description: "",
           section: "Books",handler: () => {
@@ -58,11 +63,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/causality/";
-            },},{id: "books-computation-and-cognition",
-          title: 'Computation and Cognition',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/computation_and_cognition/";
             },},{id: "books-hard-boiled-wonderland-and-the-end-of-the-world",
           title: 'Hard-Boiled Wonderland and the End of the World',
           description: "",
