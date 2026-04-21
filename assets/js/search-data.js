@@ -33,6 +33,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/shadow_of_the_torturer/";
+            },},{id: "books-the-claw-of-the-conciliator",
+          title: 'The Claw of the Conciliator',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_claw_of_the_conciliator/";
             },},{id: "news-presented-at-acl-2023-on-hierarchical-generalization-in-neural-networks",
           title: 'Presented at ACL 2023 on hierarchical generalization in neural networks.',
           description: "",
