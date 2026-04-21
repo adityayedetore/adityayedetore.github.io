@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: book-review
 title: The Claw of the Conciliator
 author: Gene Wolfe
 cover: assets/img/book_covers/claw_of_the_conciliator.jpg
