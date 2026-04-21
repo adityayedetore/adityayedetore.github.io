@@ -3,98 +3,12 @@
   contents:
     - name: Full Name
       value: Aditya Yedetore
-    - name: Email
-      value: yedetore@bu.edu
-    - name: Website
-      value: http://www.adityayedetore.com
-
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Core Areas
-      items:
-        - Representation and computation in neural networks
-        - Compositionality, systematicity, and productivity
-        - Formal theories of generalization
-        - Language acquisition
-        - Cognitive and computational theories of symbolic structure
-    - title: Current Focus
-      items:
-        - Comparing human and neural network generalization
-        - Formal conditions under which behavioral generalization constrains internal computational architecture
-        - Classical structure in connectionist systems
+    - name: Date of Birth
+      value: 10th December 1999
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Linguistics (in progress)
-      institution: Boston University, Boston, Massachusetts
-      year: 2022–Present
-      description:
-        - Advisor: Najoung Kim
-
-    - title: BS in Cognitive Science and Computer Science
+    - title: Bachelors of Arts
       institution: Johns Hopkins University, Baltimore, Maryland
-      year: 2018–2022
-
-- title: Publications
-  type: list
-  contents:
-    - Aditya Yedetore, Tal Linzen, Robert Frank, and R. Thomas McCoy. 2023. "How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech." Proceedings of ACL 2023.
-    - Aditya Yedetore and Najoung Kim. 2024. "Semantic Training Signals Promote Hierarchical Syntactic Generalization in Transformers." Proceedings of EMNLP 2024.
-
-- title: Working Papers
-  type: list
-  contents:
-    - Aditya Yedetore. "Classical Computation and Connectionist Models."
-
-- title: Selected Presentations
-  type: time_table
-  contents:
-    - title: "Semantic Training Signals Promote Hierarchical Syntactic Generalization in Neural Networks"
-      institution: Harvard Language and Cognition
-      year: 2024
-
-    - title: "Classical Computation in Connectionist Models"
-      institution: Brown University ANCOR Talk Series
-      year: 2025
-
-    - title: "Classical Computation and Connectionist Models"
-      institution: Harvard Language and Cognition
-      year: 2026
-
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Undergraduate Researcher
-      institution: Johns Hopkins University Computation and Psycholinguistics Lab
-      year: 2020–2022
-      description:
-        - Collaborators: Tal Linzen, Bob Frank, and Tom McCoy
-
-    - title: Undergraduate Researcher
-      institution: Johns Hopkins University Vision and Cognition Lab
-      year: 2019–2021
-      description:
-        - Collaborators: Nico Arlotti and Justin Halberda
-
-- title: Teaching
-  type: time_table
-  contents:
-    - title: Teaching Assistant
-      institution: Introduction to Linguistics (CAS LX 250), Boston University
-      year: Spring 2024
-
-- title: Service
-  type: time_table
-  contents:
-    - title: Organizer
-      institution: Boston University Conference on Language Development
-      year: 2024
-
-- title: Awards
-  type: time_table
-  contents:
-    - title: Johns Hopkins Summer PURA Award
-      year: 2020
-
+      year: 2022
