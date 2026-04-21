@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: book-review
 title: Labyrinths
 author: Jorge Luis Borges
 cover: assets/img/book_covers/labyrinths.jpg
