@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-pale-fire",
+        },{id: "books-the-shadow-of-the-torturer",
+          title: 'The Shadow of the Torturer',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/080_the_shadow_of_the_torturer/";
+            },},{id: "books-pale-fire",
           title: 'Pale Fire',
           description: "",
           section: "Books",handler: () => {
@@ -73,11 +78,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_claw_of_the_conciliator/";
-            },},{id: "books-the-shadow-of-the-torturer",
-          title: 'The Shadow of the Torturer',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_shadow_of_the_torturer/";
             },},{id: "books-the-sword-of-the-lictor",
           title: 'The Sword of the Lictor',
           description: "",
