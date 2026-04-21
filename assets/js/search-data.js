@@ -48,6 +48,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_claw_of_the_conciliator/";
+            },},{id: "books-the-harmonic-mind-volume-1",
+          title: 'The Harmonic Mind, Volume 1',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_harmonic_mind_i/";
             },},{id: "books-the-language-of-thought",
           title: 'The Language of Thought',
           description: "",
