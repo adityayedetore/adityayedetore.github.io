@@ -43,6 +43,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/040_the_claw_of_the_conciliator/";
+            },},{id: "books-causality",
+          title: 'Causality',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/060_causality/";
             },},{id: "books-the-shadow-of-the-torturer",
           title: 'The Shadow of the Torturer',
           description: "",
@@ -73,11 +78,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/130_labyrinths/";
-            },},{id: "books-causality",
-          title: 'Causality',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/causality/";
             },},{id: "books-hard-boiled-wonderland-and-the-end-of-the-world",
           title: 'Hard-Boiled Wonderland and the End of the World',
           description: "",
