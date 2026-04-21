@@ -14,6 +14,6 @@ finished: 2025-07-12
 released: 1962
 stars: 
 goodreads_review: 
-status: Finished
+status: 
 ---
 
