@@ -28,6 +28,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/010_computation_and_cognition/";
+            },},{id: "books-the-claw-of-the-conciliator",
+          title: 'The Claw of the Conciliator',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/040_the_claw_of_the_conciliator/";
             },},{id: "books-the-shadow-of-the-torturer",
           title: 'The Shadow of the Torturer',
           description: "",
@@ -73,11 +78,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_citadel_of_the_autarch/";
-            },},{id: "books-the-claw-of-the-conciliator",
-          title: 'The Claw of the Conciliator',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_claw_of_the_conciliator/";
             },},{id: "books-the-sword-of-the-lictor",
           title: 'The Sword of the Lictor',
           description: "",
