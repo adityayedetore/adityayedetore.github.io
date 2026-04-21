@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-the-harmonic-mind-volume-1",
+        },{id: "books-representing-and-intervening",
+          title: 'Representing and Intervening',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/100_representing_and_intervening/";
+            },},{id: "books-the-harmonic-mind-volume-1",
           title: 'The Harmonic Mind, Volume 1',
           description: "",
           section: "Books",handler: () => {
@@ -58,11 +63,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/pale_fire/";
-            },},{id: "books-representing-and-intervening",
-          title: 'Representing and Intervening',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/representing_and_intervening/";
             },},{id: "books-the-citadel-of-the-autarch",
           title: 'The Citadel of the Autarch',
           description: "",
