@@ -33,6 +33,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/labyrinths/";
+            },},{id: "books-pale-fire",
+          title: 'Pale Fire',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/pale_fire/";
             },},{id: "books-representing-and-intervening",
           title: 'Representing and Intervening',
           description: "",
