@@ -23,16 +23,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-labyrinths",
+        },{id: "books-the-language-of-thought",
+          title: 'The Language of Thought',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/120_the_language_of_thought/";
+            },},{id: "books-labyrinths",
           title: 'Labyrinths',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/130_labyrinths/";
-            },},{id: "books-the-language-of-thought",
-          title: 'The Language of Thought',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/2_the_language_of_thought/";
             },},{id: "books-causality",
           title: 'Causality',
           description: "",
