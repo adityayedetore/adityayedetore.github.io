@@ -23,18 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
+        },{id: "books-labyrinths",
+          title: 'Labyrinths',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/labyrinths/";
             },},{id: "news-presented-at-acl-2023-on-hierarchical-generalization-in-neural-networks",
           title: 'Presented at ACL 2023 on hierarchical generalization in neural networks.',
           description: "",
