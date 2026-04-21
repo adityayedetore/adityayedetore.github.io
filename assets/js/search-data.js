@@ -33,6 +33,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/computation_and_cognition/";
+            },},{id: "books-hard-boiled-wonderland-and-the-end-of-the-world",
+          title: 'Hard-Boiled Wonderland and the End of the World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hardboiled_wonderland/";
             },},{id: "books-labyrinths",
           title: 'Labyrinths',
           description: "",
