@@ -53,6 +53,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/060_causality/";
+            },},{id: "books-words-and-rules",
+          title: 'Words and Rules',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/070_words_and_rules/";
             },},{id: "books-the-shadow-of-the-torturer",
           title: 'The Shadow of the Torturer',
           description: "",
@@ -83,11 +88,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/130_labyrinths/";
-            },},{id: "books-words-and-rules",
-          title: 'Words and Rules',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/words_and_rules/";
             },},{id: "news-presented-at-acl-2023-on-hierarchical-generalization-in-neural-networks",
           title: 'Presented at ACL 2023 on hierarchical generalization in neural networks.',
           description: "",
