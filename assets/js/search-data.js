@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-causality",
+        },{id: "books-labyrinths",
+          title: 'Labyrinths',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/1_labyrinths/";
+            },},{id: "books-causality",
           title: 'Causality',
           description: "",
           section: "Books",handler: () => {
@@ -38,11 +43,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hardboiled_wonderland/";
-            },},{id: "books-labyrinths",
-          title: 'Labyrinths',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/labyrinths/";
             },},{id: "books-pale-fire",
           title: 'Pale Fire',
           description: "",
