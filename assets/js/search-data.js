@@ -33,6 +33,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/shadow_of_the_torturer/";
+            },},{id: "books-the-citadel-of-the-autarch",
+          title: 'The Citadel of the Autarch',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_citadel_of_the_autarch/";
             },},{id: "books-the-claw-of-the-conciliator",
           title: 'The Claw of the Conciliator',
           description: "",
