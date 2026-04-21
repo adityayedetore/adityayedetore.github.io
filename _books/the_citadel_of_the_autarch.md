@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: book-review
 title: The Citadel of the Autarch
 author: Gene Wolfe
 cover: assets/img/book_covers/citadel_of_the_autarch.jpg
