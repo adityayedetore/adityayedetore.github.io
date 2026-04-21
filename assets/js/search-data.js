@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-labyrinths",
+        },{id: "books-causality",
+          title: 'Causality',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/causality/";
+            },},{id: "books-labyrinths",
           title: 'Labyrinths',
           description: "",
           section: "Books",handler: () => {
