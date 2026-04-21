@@ -28,6 +28,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/causality/";
+            },},{id: "books-computation-and-cognition",
+          title: 'Computation and Cognition',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/computation_and_cognition/";
             },},{id: "books-labyrinths",
           title: 'Labyrinths',
           description: "",
