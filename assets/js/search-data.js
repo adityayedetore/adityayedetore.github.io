@@ -33,6 +33,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/labyrinths/";
+            },},{id: "books-representing-and-intervening",
+          title: 'Representing and Intervening',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/representing_and_intervening/";
             },},{id: "books-the-citadel-of-the-autarch",
           title: 'The Citadel of the Autarch',
           description: "",
