@@ -28,11 +28,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/labyrinths/";
-            },},{id: "books-the-shadow-of-the-torturer",
-          title: 'The Shadow of the Torturer',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/shadow_of_the_torturer/";
             },},{id: "news-presented-at-acl-2023-on-hierarchical-generalization-in-neural-networks",
           title: 'Presented at ACL 2023 on hierarchical generalization in neural networks.',
           description: "",
