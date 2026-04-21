@@ -27,7 +27,7 @@ ninja.data = [{
           title: 'Labyrinths',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/1_labyrinths/";
+              window.location.href = "/books/130_labyrinths/";
             },},{id: "books-the-language-of-thought",
           title: 'The Language of Thought',
           description: "",
