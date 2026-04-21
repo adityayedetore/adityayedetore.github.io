@@ -1,17 +1,17 @@
 ---
 layout: book-review
 title: Representing and Intervening
-author: James Woodward
+author: Ian Hacking
 cover: assets/img/book_covers/representing_and_intervening.jpg
-olid: OL3406632W
-isbn: 9780521532334
+olid: OL4268016W
+isbn: 9780521282468
 categories:
 tags:
 buy_link:
 date: 2026-04-21
 started:
 finished:
-released: 2003
+released: 1983
 stars:
 goodreads_review:
 status: none
