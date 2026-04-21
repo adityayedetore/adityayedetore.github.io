@@ -38,6 +38,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_claw_of_the_conciliator/";
+            },},{id: "books-the-language-of-thought",
+          title: 'The Language of Thought',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_language_of_thought/";
             },},{id: "books-the-shadow-of-the-torturer",
           title: 'The Shadow of the Torturer',
           description: "",
