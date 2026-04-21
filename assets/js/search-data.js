@@ -28,6 +28,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/1_labyrinths/";
+            },},{id: "books-the-language-of-thought",
+          title: 'The Language of Thought',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/2_the_language_of_thought/";
             },},{id: "books-causality",
           title: 'Causality',
           description: "",
@@ -68,11 +73,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_harmonic_mind_i/";
-            },},{id: "books-the-language-of-thought",
-          title: 'The Language of Thought',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_language_of_thought/";
             },},{id: "books-the-shadow-of-the-torturer",
           title: 'The Shadow of the Torturer',
           description: "",
