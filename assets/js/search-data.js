@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-representing-and-intervening",
+        },{id: "books-pale-fire",
+          title: 'Pale Fire',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/090_pale_fire/";
+            },},{id: "books-representing-and-intervening",
           title: 'Representing and Intervening',
           description: "",
           section: "Books",handler: () => {
@@ -58,11 +63,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hardboiled_wonderland/";
-            },},{id: "books-pale-fire",
-          title: 'Pale Fire',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/pale_fire/";
             },},{id: "books-the-citadel-of-the-autarch",
           title: 'The Citadel of the Autarch',
           description: "",
