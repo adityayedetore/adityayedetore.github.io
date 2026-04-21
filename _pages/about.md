@@ -19,11 +19,10 @@ announcements:
   limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a graduate student in the Linguistics Department at [Boston University](https://www.bu.edu), where I work with [Najoung Kim](https://najoungkim.github.io). My research concerns how patterns of linguistic generalization constrain hypotheses about internal computation: in particular, when observed behavior justifies attributing structured representations and structure-sensitive operations to a learning system. I am especially interested in whether properties such as compositionality, systematicity, and productivity provide evidence about the representational and computational organization underlying language learning. My current work compares generalization in neural networks and humans, combining formal analysis with computational experiments to investigate when similar behavioral capacities reflect shared underlying structure, and when similar performance may arise from importantly different computational organizations.
 
-I am a graduate student in  the Linguistics Department at Boston University, working with [Professor Najoung Kim](https://najoungkim.github.io). I am interested in language acquisition. My current work involves comparing generalization in neural networks and humans.
-
-Previously I studied Cognitive Science and Computer Science at Johns Hopkins University. 
+Previously, I studied Cognitive Science and Computer Science at [Johns Hopkins University](https://www.jhu.edu), where I developed an interest in formal models of language, cognition, and computation, especially in how abstract structure can be represented and learned in both biological and artificial systems.
