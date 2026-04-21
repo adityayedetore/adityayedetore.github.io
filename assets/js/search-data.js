@@ -38,6 +38,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_claw_of_the_conciliator/";
+            },},{id: "books-the-sword-of-the-lictor",
+          title: 'The Sword of the Lictor',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_sword_of_the_lictor/";
             },},{id: "news-presented-at-acl-2023-on-hierarchical-generalization-in-neural-networks",
           title: 'Presented at ACL 2023 on hierarchical generalization in neural networks.',
           description: "",
