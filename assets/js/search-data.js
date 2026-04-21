@@ -27,7 +27,7 @@ ninja.data = [{
           title: 'Labyrinths',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/labyrinths/";
+              window.location.href = "/books/1_labyrinths/";
             },},{id: "books-the-citadel-of-the-autarch",
           title: 'The Citadel of the Autarch',
           description: "",
