@@ -9,8 +9,8 @@ categories:
 tags: 
 buy_link: 
 date: 2026-04-21
-started: 2024-10-09
-finished: 2025-07-12
+started: 
+finished: 
 released: 1962
 stars: 
 goodreads_review: 
