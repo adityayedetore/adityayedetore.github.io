@@ -78,6 +78,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_sword_of_the_lictor/";
+            },},{id: "books-words-and-rules",
+          title: 'Words and Rules',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/words_and_rules/";
             },},{id: "news-presented-at-acl-2023-on-hierarchical-generalization-in-neural-networks",
           title: 'Presented at ACL 2023 on hierarchical generalization in neural networks.',
           description: "",
