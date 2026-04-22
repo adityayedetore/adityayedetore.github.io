@@ -17,3 +17,4 @@ goodreads_review:
 status: none
 ---
 
+Symbols in these stories are both infinitely composable forms and the rough worlds we assign to them. Borges plays with the relation between formal intricacy and glittering meaning.
