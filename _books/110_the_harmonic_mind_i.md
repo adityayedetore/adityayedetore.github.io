@@ -16,3 +16,5 @@ stars:
 goodreads_review:
 status: none
 ---
+
+Smolensky makes the leap required to explain how symbolic computation might be carried by vectors; Compositionality, Systematicity, and Productivity follow as formal consequences.
