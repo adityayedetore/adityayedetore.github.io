@@ -16,3 +16,5 @@ stars:
 goodreads_review:
 status: none
 ---
+
+This book is a constructed labyrinth of formal symbols. Nabokov is at once Daedalus, Icarus, and the Minotaur at its center.
