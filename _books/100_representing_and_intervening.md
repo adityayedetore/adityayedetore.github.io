@@ -16,3 +16,4 @@ stars:
 goodreads_review:
 status: none
 ---
+Hacking treats intervention as a stronger guide to reality than theory alone. It helped fix my view that symbolic structures in the mind count as real only if intervention can reach them.
