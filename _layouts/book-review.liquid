@@ -192,6 +192,36 @@ layout: default
         text-align: center;
       }
 
+      @media screen and (max-width: 599px) {
+        .post-title {
+          font-size: 1.8rem;
+        }
+      
+        .post-meta {
+          font-size: 1rem;
+        }
+      
+        article {
+          font-size: 1.05rem;
+          line-height: 1.6;
+        }
+      
+        figure {
+          margin-bottom: 1rem;
+        }
+      
+        figure > img {
+          width: min(220px, 80vw);
+          height: auto;
+          margin-left: auto;
+          margin-right: auto;
+        }
+      
+        figure figcaption {
+          font-size: 0.9rem;
+        }
+      }
+
       @media screen and (min-width: 600px)  {
 
         .empty-review{
@@ -218,7 +248,7 @@ layout: default
           figure {
 
                 float: right;
-                display: in-line block; /* in-line block; */
+                display: inline-block; /* in-line block; */
                 margin: 0px 0px 0px 0px;  /* adjust as needed */
                 padding: 0px 0px 0px 20px;
                /* top right bottom left */
@@ -243,7 +273,7 @@ layout: default
   blockquote {
 
       position: relative;
-      marign: 0px;
+      margin: 0px;
       display: table;
 
   }
