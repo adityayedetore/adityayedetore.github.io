@@ -16,3 +16,5 @@ stars:
 goodreads_review:
 status: none
 ---
+
+This book first pushed me toward the problems I now work on. Fodor takes the symbolic commitments of successful psychological theories at face value and follows them toward a language-like view of the internal code.
