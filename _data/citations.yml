@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-11'
 papers:
   ayZZ9h8AAAAJ:u-x6o8ySG0sC:
     citations: 5
     title: Semantic training signals promote hierarchical syntactic generalization in transformers
     year: '2024'
   ayZZ9h8AAAAJ:u5HHmVD_uO8C:
-    citations: 74
+    citations: 75
     title: How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech
     year: '2023'
