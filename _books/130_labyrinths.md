@@ -17,4 +17,4 @@ goodreads_review:
 status: none
 ---
 
-*Comments.* Symbols in these stories are both infinitely composable forms and the rough worlds we assign to them. Borges follows formal structures as they slowly engulf the worlds around them.
+*Comments.* In Borges' stories, symbol systems often play central roles, and end up outgrowing the worlds they are in. 
