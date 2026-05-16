@@ -17,4 +17,4 @@ goodreads_review:
 status: none
 ---
 
-*Comments.* This book first pushed me toward the problems I now work on. Fodor takes the symbolic commitments of successful psychological theories at face value, pushing him toward a language-like view of internal representations.
+*Comments.* Fodor takes the symbolic commitments of computation and psychological/linguistic theory at face value, pushing him toward a language-like view of internal representations.
