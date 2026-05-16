@@ -17,4 +17,4 @@ goodreads_review:
 status: none
 ---
 
-*Comments.* Hacking treats intervention as a stronger guide to reality than theory alone. It helped fix my view that symbolic structures in the mind count as real only if intervention can reach them.
+*Comments.* Hacking treats intervention as central for determining the reality of theoretical constructs. I have adopted this view for ther reality of the structures posited linguistic theory in the mind. 
