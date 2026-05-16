@@ -16,4 +16,4 @@ stars:
 goodreads_review:
 status: none
 ---
-*Comments.* This is my book of gold. Realizing that the Matachin tower was a spaceship changed how I understood what books could hide.
+*Comments.* This is my book of gold.
