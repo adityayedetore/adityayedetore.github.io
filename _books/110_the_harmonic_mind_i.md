@@ -17,4 +17,4 @@ goodreads_review:
 status: none
 ---
 
-*Comments.* Smolensky describes how symbolic computation might be carried by vectors; compositionality, systematicity, and productivity follow as formal consequences.
+*Comments.* Smolensky describes how symbolic computation might be realized in vectors; compositionality, systematicity, and productivity follow as formal consequences.
